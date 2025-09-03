@@ -1,0 +1,23 @@
+{
+    "schemaVersion": 1,
+    "id": "chestsorter",
+    "version": "1.0.0",
+    "name": "Chest Sorter",
+    "description": "A blank Fabric mod for Minecraft 1.21, ready for coding.",
+    "authors": [
+        "Camden"
+    ],
+    "contact": {},
+    "license": "MIT",
+    "environment": "*",
+    "entrypoints": {
+        "main": [
+            "com.camden.chestsorter.ChestSorterMod"
+        ]
+    },
+    "depends": {
+        "fabricloader": ">=0.15.11",
+        "minecraft": "1.21.x",
+        "fabric-api": "*"
+    }
+}
